@@ -6,7 +6,7 @@ After login success, show Timeline
 - Button for feature sales 
 
 Information for each item on Timeline tab customer:
-- Image for product
+- Image for products
 - Name product
 - Name producer
 - Prices
